@@ -1,6 +1,6 @@
 # Hi there 👋
 <!--
 
-  - Type some Markdown on the left drgsdrg
+  - Hello
   - See HTML in the right
   - Magic
