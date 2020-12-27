@@ -6,5 +6,3 @@
   - There are some Excercises, Topics and Projects I have learnt on 
       - [Hyperskill](https://hyperskill.org)
       - [HackerRank](https://www.hackerrank.com)
-  
-  ***Hopefully, it will improve your programming skill***
